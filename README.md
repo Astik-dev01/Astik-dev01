@@ -1,5 +1,5 @@
- <h2><p align=center> Hello! </p></h2>
- <h1><p align=center> Astan, 17y.o </p></h1>
+ <h2><p align=center> Welcome! </p></h2>
+ <h1><p align=center> Astan Serikov, 17y.o </p></h1>
 
 <div align=center>
     <img src='https://media1.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif?cid=ecf05e473pcufwllvqi6jwrgfsaob9pbjmggbs1jerh0xfbc&rid=giphy.gif'>
