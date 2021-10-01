@@ -2,7 +2,8 @@
  <h1><p align=center> Astan Serikov, 18y.o </p></h1>
 
 <div align=center>
-    <img src='https://media1.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif?cid=ecf05e473pcufwllvqi6jwrgfsaob9pbjmggbs1jerh0xfbc&rid=giphy.gif'>
+  <!--  <img src='https://media1.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif?cid=ecf05e473pcufwllvqi6jwrgfsaob9pbjmggbs1jerh0xfbc&rid=giphy.gif'> -->
+    <img src='https://i.gifer.com/KTfd.gif'
 </div>
 
 
