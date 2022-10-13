@@ -17,6 +17,6 @@
 
 <div align=center>
     <a href='https://t.me/AstikJun'><img src='https://img.shields.io/badge/Telegram-AstikJun-purple'></a>
-    <a href='https://www.instagram.com/_serikov_10/'><img src='https://img.shields.io/badge/Instagram-__serikov__10-pink'></a>
+    <a href='https://www.instagram.com/_serikov_10/'><img src='https://img.shields.io/badge/Instagram-dedoralive_-pink'></a>
     <a href='mailto:serikovastik@gmail.com'><img src='https://img.shields.io/badge/Gmail-serikovastik-blueviolet'></a>
 </div>
