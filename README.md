@@ -1,27 +1,24 @@
-<!--  <h2><p align=center> Welcome! </p></h2>
- <h1><p align=center> Astan Serikov, 19y.o </p></h1>
-
-<div align=center>
-  <!--  <img src='https://media1.giphy.com/media/4N3lQozOH2STZdDsOe/giphy.gif?cid=ecf05e473pcufwllvqi6jwrgfsaob9pbjmggbs1jerh0xfbc&rid=giphy.gif'> -->
-<!--    <img src='https://media.giphy.com/media/2eKfFHjb30D9tDdJ59/giphy.gif'>
-</div>
- -->
-
-
-<!-- <h1><p align=center>Contact me</p></h1>
-<div align=center>
-    <a href='https://t.me/AstikJun'><img height="32" width="32" src='https://simpleicons.org/icons/telegram.svg'></a>
-    <a href='https://www.instagram.com/dedoralive_/'><img height="32" width="32" src='https://simpleicons.org/icons/instagram.svg'></a>
-    <a href='mailto:serikovastik@gmail.com'><img height="32" width="32" src='https://simpleicons.org/icons/gmail.svg'></a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
 </div>
 
-<div align=center>
-    <a href='https://t.me/AstikJun'><img src='https://img.shields.io/badge/Telegram-AstikJun-purple'></a>
-    <a href='https://www.instagram.com/dedoralive_/'><img src='https://img.shields.io/badge/Instagram-dedoralive_-pink'></a>
-    <a href='mailto:serikovastik@gmail.com'><img src='https://img.shields.io/badge/Gmail-serikovastik-blueviolet'></a>
-</div>
- --> 
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/serikov-astan-6024a3209/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
  
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" **alt="SQL" width="40" height="40"/>&nbsp;
 </div>
